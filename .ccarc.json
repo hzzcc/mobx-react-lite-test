@@ -1,0 +1,9 @@
+{
+  "type": "stateless",
+  "jsExtension": "tsx",
+  "cssExtension": "scss",
+  "includeTests": true,
+  "includeStories": true,
+  "indexFile": true,
+  "connected": false
+}
